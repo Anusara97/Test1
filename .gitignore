@@ -1,2 +1,6 @@
 #ignore all class files
 *.class
+
+#ignore following folders and their content
+bin/
+lib/

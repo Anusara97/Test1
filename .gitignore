@@ -4,3 +4,6 @@
 #ignore following folders and their content
 bin/
 lib/
+
+#ignore University.txt
+**/University.txt
